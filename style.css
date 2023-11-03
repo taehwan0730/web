@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTS의 진짜 성공비결은 위로와 희망 아닐까요</title>
+</head>
+<style>
+    *{margin: 0;}
+    .wrap1{height: 993px;background-color: white;}
+    .wrap2{height: 736px;background-color:  #848484;}
+    .wrap3{height: 1290px;background-color: white;}
+    .wrap4{height: 621px;background-color: black;}
+    .wrap5{height: 1089px;background-color: white;}
+    .wrap6{height: 1479px;background-color: #7885DA;}
+    
+</style>
+<body>
+    <div class="wrap1"></div>
+    <div class="wrap2"></div>
+    <div class="wrap3"></div>
+    <div class="wrap4"></div>
+    <div class="wrap5"></div>
+    <div class="wrap6"></div>
+</body>
+</html>
